@@ -25,6 +25,6 @@ const myFunction = async (req, res) => {
 }
 
 
-app.get('/', myFunction)
+app.get('/api/joke', myFunction)
 
 module.exports = app;
