@@ -2,9 +2,9 @@
   "name": "sample",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "api/index.js",
   "scripts": {
-    "start": "node index.js"
+    "dev": "node api/index.js"
   },
   "keywords": [],
   "author": "",
